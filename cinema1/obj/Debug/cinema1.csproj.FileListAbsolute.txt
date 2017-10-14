@@ -1,0 +1,14 @@
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\bin\Debug\cinema1.exe.config
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\bin\Debug\cinema1.exe
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\bin\Debug\cinema1.pdb
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form1.resources
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.exe
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.pdb
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form2.resources
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form3.resources
+c:\users\emre\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form4.resources
+C:\Users\EMRE\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form5.resources
+C:\Users\EMRE\documents\visual studio 2015\Projects\cinema1\cinema1\obj\Debug\cinema1.Form6.resources
